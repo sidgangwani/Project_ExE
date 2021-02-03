@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1612375574 source:c:\users\sidga\onedrive\desktop\hack ohio\project_exe\exe\main.cpp
+	<iostream>
+	<graphics.h>
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+	<dos.h>
+	<windows.h>
+	<math.h>
+	<fstream>
+
